@@ -6,7 +6,7 @@ This repository contains the data and R code for reproducing the meta-analysis o
 
 This meta-analysis investigates burnout prevalence among trauma surgeons through a systematic review of published literature. The analysis includes:
 
-Primary meta-analysis of burnout prevalence
+* Primary meta-analysis of burnout prevalence *
 Subgroup analysis comparing MBI vs non-MBI studies
 Publication bias assessment
 Sensitivity analyses
