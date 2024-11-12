@@ -13,6 +13,22 @@ This meta-analysis investigates burnout prevalence among trauma surgeons through
 * Meta-regression examining moderator effects
 * Comparative analysis with other surgical specialities
 
+## Data files
+meta_trauma_extraction.csv
+Contains extracted data from included studies with fields:
+burnout_comparison_updated.csv
+Contains comparative data across surgical specialities with fields
+
+## Analysis Scripts
+main-ma.R
+Primary meta-analysis script
+
+MBI-MR.R
+Conducts meta-regression and subgroup analyses
+
+comparison.R
+Generates comparative analysis forest plot
+
 # Citation
 If you use this code or data, please cite:
 
