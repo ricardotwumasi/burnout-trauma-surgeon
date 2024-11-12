@@ -12,3 +12,9 @@ This meta-analysis investigates burnout prevalence among trauma surgeons through
 * Sensitivity analyses
 * Meta-regression examining moderator effects
 * Comparative analysis with other surgical specialities
+
+# Citation
+If you use this code or data, please cite:
+
+Kirdar-Smith, S., Knight, A., & Twumasi, R. (2024). Prevalence of burnout among Trauma 
+Surgeons: A systematic review and meta-analysis. [Details pending]
