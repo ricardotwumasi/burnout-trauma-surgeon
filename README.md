@@ -1,4 +1,4 @@
-## Burnout in Trauma Surgery: A Systematic Review and Meta-Analysis
+## Burnout in Trauma Surgeons: A Systematic Review and Meta-Analysis
 
 This repository contains the data and R code for reproducing the meta-analysis of burnout prevalence among trauma surgeons, including comparative analyses with other surgical specialities.
 
