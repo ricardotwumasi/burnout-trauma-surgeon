@@ -30,6 +30,11 @@ Conducts meta-regression and subgroup analyses
 comparison.R
 Generates comparative analysis forest plot
 
+
+## AI Statement
+
+This code was edited with the assistance of Claude Sonnet 3.5 (Anthropic, San Francisco: CA)
+
 # Citation
 If you use this code or data, please cite:
 
