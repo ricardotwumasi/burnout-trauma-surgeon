@@ -1,8 +1,13 @@
-## Burnout in Trauma Surgeons: A Systematic Review and Meta-Analysis
+## Burnout among Trauma Surgeons: A Systematic Review and Meta-Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.1136/tsaco-2025-001873.svg)](https://doi.org/10.1136/tsaco-2025-001873)
+[![DOI (paper)](https://img.shields.io/badge/DOI-10.1136%2Ftsaco--2025--001873-blue.svg)](https://doi.org/10.1136/tsaco-2025-001873)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![R](https://img.shields.io/badge/R-4.4.1-blue.svg)](https://cran.r-project.org/)
+![R version](https://img.shields.io/badge/R-v4.4.1-blue.svg)
+
+<!-- Uncomment and replace once Zenodo DOIs are live:
+[![Zenodo DOI (concept)](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Zenodo DOI (latest)](https://zenodo.org/badge/latestdoi/123456789.svg)](https://doi.org/10.5281/zenodo.YYYYYYY)
+-->
 
 This repository contains the data and R code for reproducing the meta-analysis of burnout prevalence among trauma surgeons, including comparative analyses with other surgical specialities.
 
