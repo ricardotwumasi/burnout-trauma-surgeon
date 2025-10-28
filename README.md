@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.1136/tsaco-2025-001873.svg)](https://doi.org/10.1136/tsaco-2025-001873)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![R version](https://img.shields.io/badge/R-v4.4.1-blue.svg)
+[![R](https://img.shields.io/badge/R-4.4.1-blue.svg)](https://cran.r-project.org/)
 
 This repository contains the data and R code for reproducing the meta-analysis of burnout prevalence among trauma surgeons, including comparative analyses with other surgical specialities.
 
