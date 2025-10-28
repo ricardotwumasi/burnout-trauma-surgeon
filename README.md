@@ -2,7 +2,7 @@
 
 [![DOI (paper)](https://img.shields.io/badge/DOI-10.1136%2Ftsaco--2025--001873-blue.svg)](https://doi.org/10.1136/tsaco-2025-001873)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![R version](https://img.shields.io/badge/R-v4.4.1-blue.svg)
+[![R](https://img.shields.io/badge/R-4.1.0-blue.svg)](https://cran.r-project.org/)
 
 <!-- Uncomment and replace once Zenodo DOIs are live:
 [![Zenodo DOI (concept)](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
